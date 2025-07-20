@@ -1,5 +1,5 @@
 # TufinQuestions
-I've used Java 8 to answer the questions
+I've used Java 8 to answer the questions and IntelliJ to run the code 
 Question 1 - The code checks for any duplicated characters in sequence and eliminates them. If the longest string is found with no sequentially duplicated letters and all it's characters can be found in the list of characters it is printed
 Question 2 - My solution doesn't work but the idea was to create a Set so I could store a unique list of values, add the individual unique values to a list and return the set
 Question 3 - I made the digits in the array subtract themselves in order to get to zero and return 1. If the the starting number was zero then it would return 0 meaning it's impossible to get the required result
